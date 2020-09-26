@@ -11,7 +11,7 @@
  + Worked 100% remotely since March due to Covid-19, I really miss my sit/stand desk
  + Led the Front End Development department in multiple OEM product initiatives for companies such as BRP, ROXOR, Piaggio ,and Kubota
  + These products feature dynamic multi-language support via a data-driven HandlebarsJS/Node web application
- + Led team trainings on HandleBarsJs and Git workflows
+ + Led team trainings on HandlebarsJs and Git workflows
 
  ## At Home
  I have been working on courses and side projects with ES6+ and React/Node since mid 2019 and would love to do so full time. I first learned React, Express, Node and MongoDB  to create a site for my upcoming wedding ~~9/6/2020 damn you covid!~~ [9/5/2021](https://www.rileyandjessica.com/) and intend to rebuild it using Gatsby/GraphQL soon. I have done a limited amount of freelance work and generally try to keep that minimal, but I can often be found doing work for friends and family.
