@@ -8,7 +8,7 @@
  ## At Work
  I have worked for [LeadVenture](https://www.leadventure.com/) as a Front End Developer since August 2018. Before that I attended Portland Community College, from which I hold an Associate's of Applied Science in Web Development.
  ### Lately at LeadVenture:
- + Worked 100% remotely since March due to Covid-19, I really miss my sit/stand desk
+ + Worked 100% remotely since March due to Covid-19, ~~I really miss my sit/stand desk~~ I love my new home office sit-stand desk
  + Led the Front End Development department in multiple OEM product initiatives for companies such as BRP, ROXOR, Piaggio ,and Kubota
  + These products feature dynamic multi-language support via a data-driven HandlebarsJS/Node web application
  + Led team trainings on HandlebarsJs and Git/Azure DevOps workflows
