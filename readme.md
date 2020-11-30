@@ -10,7 +10,7 @@
  ### Lately at LeadVenture:
  + Worked 100% remotely since March due to Covid-19, ~~I really miss my sit/stand desk~~ I love my new home office sit/stand desk
  + Led the Front End Development department in multiple OEM product initiatives for companies such as BRP, ROXOR, Piaggio ,and Kubota
- + These products feature dynamic multi-language support via a data-driven HandlebarsJS/Node web application
+ + These products feature dynamic multi-language support via a data-driven HandlebarsJS/Node web application and will be transitioning to use Vue/Nuxt in 2021
  + Led team trainings on HandlebarsJs and Git/Azure DevOps workflows
 
  ## At Home
