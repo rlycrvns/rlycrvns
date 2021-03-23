@@ -3,7 +3,7 @@
 ## I am a Front End Developer/Engineer who lives in Portland, OR with my fiance and gang of cats.
 
 ## Status
- I am currently looking for a new role, based in Portland, OR or remotely, as a Front End Engineer/Developer, ideally utilizing React in some way. Let's Connect on [LinkedIn](https://www.linkedin.com/in/riley-cravens/)!
+ ~~I am currently looking for a new role, based in Portland, OR or remotely, as a Front End Engineer/Developer, ideally utilizing React in some way.~~ Let's Connect on [LinkedIn](https://www.linkedin.com/in/riley-cravens/)!
 
  ## At Work
  I have worked for [LeadVenture](https://www.leadventure.com/) as a Front End Developer since August 2018. Before that I attended Portland Community College, from which I hold an Associate's of Applied Science in Web Development.
