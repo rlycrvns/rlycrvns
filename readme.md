@@ -1,6 +1,6 @@
 # Hello, I'm Riley
 
-## I am a Front End Developer/Engineer who lives in Portland, OR with my fiance and gang of cats.
+## I am a Front End Developer who lives in Portland, OR with my fiance and gang of cats.
 
 ## Status
  ~~I am currently looking for a new role, based in Portland, OR or remotely, as a Front End Engineer/Developer, ideally utilizing React in some way.~~ Let's Connect on [LinkedIn](https://www.linkedin.com/in/riley-cravens/)!
