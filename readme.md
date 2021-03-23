@@ -14,6 +14,6 @@
  + Led team trainings on HandlebarsJs and Git/Azure DevOps workflows
 
  ## At Home
- I have been working on courses and side projects with ES6+ and React/Gatsby/Next since 2019 and would love to do so full time. I first learned React, Express, Node and MongoDB with a side of Redux to create a site for my upcoming wedding on ~~9/6/2020 damn you covid!~~ ~~9/5/2021 double damn you covid~~ 8/28/2022. I recently completed a rebuild of the site with Gatsby which can be seen [here](https://www.rileyandjessica.com/). I have done a limited amount of freelance work and generally try to keep that minimal, but I can often be found doing work for friends and family.
+ I have been working on courses and side projects with ES6+ and React/Gatsby/Next since 2019 and would love to work with these technologies full time. I first learned React, Express, Node and MongoDB with a side of Redux to create a site for my upcoming wedding on ~~9/6/2020 damn you covid!~~ ~~9/5/2021 double damn you covid~~ 8/28/2022. I recently completed a rebuild of the site with Gatsby which can be seen [here](https://www.rileyandjessica.com/). I have done a limited amount of freelance work and generally try to keep that minimal, but I can often be found doing work for friends and family.
 
 
