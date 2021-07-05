@@ -8,7 +8,7 @@
  ## At Work
  I have worked for [LeadVenture](https://www.leadventure.com/) as a Front End Developer since August 2018. Before that I attended Portland Community College, from which I hold an Associate's of Applied Science in Web Development.
  ### Lately at LeadVenture
- + Worked 100% remotely since March 2020 and don't expect to return to the office
+ + Have worked 100% remotely since March 2020
  + Led the UI Development of a Branded Zone product for companies such as BMW, Royal Enfield, BRP, Kubota, and Piaggio
  + The tech stack includes Vue/Nuxt and TypeScript fed from a headless cms
  + Led team trainings on Vue and TypeScript and Git, Jira and Azure DevOps workflows
