@@ -6,5 +6,5 @@
  ### Experience at Studio Mega
  + UI development of bespoke client websites designed in house with Figma
  + Next.js/Framer Motion/SCSS-Modules paired with Prismic CMS
- + Clients include [Tropicana](https://www.tropicana.com/), [Izze](https://www.izze.com/), [PepsiCo Starry](https://www.starrylemonlime.com/), [Formations Corp.](https://formationscorp.com/) and [Canopy Care Oncology](https://www.canopycare.us/)
+ + Clients include [Tropicana](https://www.tropicana.com/), [Izze](https://www.izze.com/), [PepsiCo Starry](https://www.starrylemonlime.com/), [Formations Corp.](https://formationscorp.com/), [Canopy Care Oncology](https://www.canopycare.us/) and [Brist MFG](https://bristmfg.com/)
  + Guidance to peers and clients on web best practices, a11y and Prismic CMS
